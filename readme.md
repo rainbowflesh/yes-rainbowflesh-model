@@ -28,8 +28,8 @@
 
    - focus: zoom in face
    - on hover: stand and turn sight to pov
-   - blush
    - Expression Management
+     - [ ] blush 
      - [x] Emotionless
      - [ ] Smile
      - [ ] Angry
@@ -48,6 +48,10 @@
    - [ ] Jack O
    - [ ] Stick out butt
    - [ ] Take off underwear
+   - [ ] Vanilla game animations
+   - [ ] Tacz
+   - [ ] Slash blade
+   - [ ] Backpack
 
 ## Credits
 
